@@ -1,0 +1,21 @@
+.reference-logo {
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.reference-logo2 {
+  width: 160px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.d-xl-flex.reference-logo {
+}
+

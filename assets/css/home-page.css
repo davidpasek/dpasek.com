@@ -1,0 +1,22 @@
+#home-badge {
+  text-align: center;
+  padding: 40px;
+  background: url(../../assets/img/backgrounds/datacenter.jpg);
+  background-size: cover;
+}
+
+#home-badge .jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.90);
+}
+
+.icon-spec {
+  font-size: 100px;
+  margin: 20px;
+}
+
+.card-body.card-body-size {
+  height: 400px;
+}
+
